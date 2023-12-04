@@ -1,0 +1,2 @@
+Ce code est une fonction Python qui calcule la division entière (quotient) de deux entiers positifs, x et y, en utilisant la récursivité. Voici une réponse à vos questions :
+
